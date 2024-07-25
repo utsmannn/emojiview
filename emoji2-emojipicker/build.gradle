@@ -65,7 +65,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'com.github.utsmannn'
             artifactId = 'emoji2-emojipicker'
-            version = "1.0"
+            version = "1.0.1"
         }
     }
 }
