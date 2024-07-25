@@ -67,7 +67,7 @@ publishing {
         register<MavenPublication>("release") {
             groupId = "com.github.utsmannn"
             artifactId = "emojiview"
-            version = "1.2.0"
+            version = "1.9.0"
 
             afterEvaluate {
                 from(components["release"])

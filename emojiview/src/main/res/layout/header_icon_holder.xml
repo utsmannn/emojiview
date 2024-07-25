@@ -17,21 +17,22 @@
 
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="@dimen/emoji_picker_header_icon_holder_width"
-    android:layout_height="match_parent"
-    android:background="?android:attr/selectableItemBackground"
+    android:layout_width="30dp"
+    android:layout_height="30dp"
     android:minHeight="@dimen/emoji_picker_header_icon_holder_min_height">
     <View
         android:id="@+id/emoji_picker_header_underline"
-        android:layout_width="@dimen/emoji_picker_header_icon_underline_width"
-        android:layout_height="@dimen/emoji_picker_header_icon_underline_width"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_gravity="center"
         android:background="@drawable/ic_emoji_category_active" />
-    <ImageView
+
+    <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/emoji_picker_header_icon"
         android:layout_width="@dimen/emoji_picker_header_icon_width"
         android:layout_height="@dimen/emoji_picker_header_icon_height"
         android:gravity="center"
+        android:padding="2dp"
         android:layout_gravity="center"
-        app:tint="@drawable/icon_tint_selector" />
+        app:srcCompat="@drawable/emoji_symbol_salam"/>
 </FrameLayout>

@@ -20,6 +20,7 @@ import android.content.Context
 import android.content.res.ColorStateList
 import android.graphics.Color
 import android.graphics.ColorFilter
+import android.graphics.PorterDuff
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -88,9 +89,9 @@ internal class EmojiPickerHeaderAdapter(
         ViewCompat.requireViewById<ImageView>(viewHolder.itemView, R.id.emoji_picker_header_icon)
             .apply {
                 if (isItemSelected) {
-                    setColorFilter(ContextCompat.getColor(context, R.color.emoji_icon_active))
+                    setColorFilter(Color.parseColor("#5F5E5F"), PorterDuff.Mode.SRC_ATOP)
                 } else {
-                    colorFilter = null
+                    setColorFilter(Color.parseColor("#A1A5AC"), PorterDuff.Mode.SRC_ATOP)
                 }
             }
     }

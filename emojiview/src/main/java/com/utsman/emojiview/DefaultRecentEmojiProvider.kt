@@ -23,7 +23,7 @@ import android.content.Context.MODE_PRIVATE
  * Provides recently shared emoji. This is the default recent emoji list provider. Clients could
  * specify the provider by their own.
  */
-internal class DefaultRecentEmojiProvider(context: Context) : RecentEmojiProvider {
+class DefaultRecentEmojiProvider(context: Context) : RecentEmojiProvider {
 
     companion object {
         private const val PREF_KEY_RECENT_EMOJI = "pref_key_recent_emoji"
