@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="5055290162204827523" name="emoji_bidirectional_switcher_clicked_desc">"se cambió la dirección del emoji"</string>
+    <string msgid="5084600168354220605" name="emoji_bidirectional_switcher_content_desc">"selector bidireccional de emojis"</string>
+    <string msgid="4381135114947330911" name="emoji_category_activity">"ACTIVIDADES Y EVENTOS"</string>
+    <string msgid="4640771324837307541" name="emoji_category_animals_nature">"ANIMALES Y NATURALEZA"</string>
+    <string msgid="1570830970240985537" name="emoji_category_emotions">"EMOTICONES Y EMOCIONES"</string>
+    <string msgid="6185639503532784871" name="emoji_category_flags">"BANDERAS"</string>
+    <string msgid="1189971856721244395" name="emoji_category_food_drink">"COMIDAS Y BEBIDAS"</string>
+    <string msgid="6106115586332708067" name="emoji_category_objects">"OBJETOS"</string>
+    <string msgid="7968173366822927025" name="emoji_category_people">"PERSONAS"</string>
+    <string msgid="7142376595414250279" name="emoji_category_recent">"USADOS RECIENTEMENTE"</string>
+    <string msgid="5626171724310261787" name="emoji_category_symbols">"SÍMBOLOS"</string>
+    <string msgid="8105712773237012672" name="emoji_category_travel_places">"VIAJES Y LUGARES"</string>
+    <string msgid="288822832574892625" name="emoji_empty_non_recent_category">"No hay ningún emoji disponible"</string>
+    <string msgid="7863877827879290200" name="emoji_empty_recent_category">"Todavía no usaste ningún emoji"</string>
+    <string msgid="943874297162865134" name="emoji_skin_tone_dark_content_desc">"tono de piel oscuro"</string>
+    <string msgid="1052239040923092881" name="emoji_skin_tone_light_content_desc">"tono de piel claro"</string>
+    <string msgid="8880212664699697283" name="emoji_skin_tone_medium_content_desc">"tono de piel intermedio"</string>
+    <string msgid="5500271767005002413" name="emoji_skin_tone_medium_dark_content_desc">"tono de piel medio oscuro"</string>
+    <string msgid="3968357909948619626" name="emoji_skin_tone_medium_light_content_desc">"tono de piel medio claro"</string>
+    <string msgid="1759906883307507376" name="emoji_skin_tone_shadow_content_desc">"sombra"</string>
+    <string msgid="6381933050671041489" name="emoji_variant_content_desc_template">"%1$s y %2$s"</string>
+    <string msgid="2898934883418401376" name="emoji_variant_selector_content_desc">"selector de variantes de emojis"</string>
+</resources>
