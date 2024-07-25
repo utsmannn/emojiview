@@ -1,5 +1,8 @@
 import java.net.URI
 
+include(":emojiview")
+
+
 pluginManagement {
     repositories {
         google {
@@ -12,8 +15,10 @@ pluginManagement {
         mavenCentral()
         mavenLocal()
         gradlePluginPortal()
+        maven { url = java.net.URI("https://jitpack.io") }
     }
 }
+
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -26,4 +31,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "emoji2picker"
 include(":app")
-include(":emoji2-emojipicker")
+//include(":emoji2-emojipicker")

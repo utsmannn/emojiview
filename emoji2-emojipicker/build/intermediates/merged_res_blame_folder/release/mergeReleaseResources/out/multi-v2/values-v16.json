@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/muhammadutsman/.gradle/caches/transforms-3/0eebc3c557296fdef9888ae80e91b783/transformed/core-1.9.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/muhammadutsman/.gradle/caches/transforms-3/cd2b6f798a8e977934ea4c846aaf2a89/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "androidx.emoji2.emojipicker.emoji2-emojipicker-mergeReleaseResources-18:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/muhammadutsman/.gradle/caches/transforms-3/0eebc3c557296fdef9888ae80e91b783/transformed/core-1.9.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/muhammadutsman/.gradle/caches/transforms-3/cd2b6f798a8e977934ea4c846aaf2a89/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

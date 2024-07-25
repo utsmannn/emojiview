@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/layout-v21/notification_action.xml",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-core-1.9.0-0:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/layout-v21/notification_template_icon_group.xml",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-core-1.9.0-0:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/layout-v21/notification_template_custom_big.xml",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-core-1.9.0-0:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/layout-v21/notification_action_tombstone.xml",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-core-1.9.0-0:/layout-v21/notification_action_tombstone.xml"
+    }
+]

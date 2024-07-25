@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="5055290162204827523" name="emoji_bidirectional_switcher_clicked_desc">"दिशा दाखवणारा इमोजी स्विच केला"</string>
+    <string msgid="5084600168354220605" name="emoji_bidirectional_switcher_content_desc">"इमोजीचा द्विदिश स्विचर"</string>
+    <string msgid="4381135114947330911" name="emoji_category_activity">"ॲक्टिव्हिटी आणि इव्हेंट"</string>
+    <string msgid="4640771324837307541" name="emoji_category_animals_nature">"प्राणी आणि निसर्ग"</string>
+    <string msgid="1570830970240985537" name="emoji_category_emotions">"स्मायली आणि भावना"</string>
+    <string msgid="6185639503532784871" name="emoji_category_flags">"ध्वज"</string>
+    <string msgid="1189971856721244395" name="emoji_category_food_drink">"खाद्यपदार्थ आणि पेय"</string>
+    <string msgid="6106115586332708067" name="emoji_category_objects">"ऑब्जेक्ट"</string>
+    <string msgid="7968173366822927025" name="emoji_category_people">"लोक"</string>
+    <string msgid="7142376595414250279" name="emoji_category_recent">"अलीकडे वापरलेला"</string>
+    <string msgid="5626171724310261787" name="emoji_category_symbols">"चिन्हे"</string>
+    <string msgid="8105712773237012672" name="emoji_category_travel_places">"प्रवास आणि ठिकाणे"</string>
+    <string msgid="288822832574892625" name="emoji_empty_non_recent_category">"कोणतेही इमोजी उपलब्ध नाहीत"</string>
+    <string msgid="7863877827879290200" name="emoji_empty_recent_category">"तुम्ही अद्याप कोणतेही इमोजी वापरलेले नाहीत"</string>
+    <string msgid="943874297162865134" name="emoji_skin_tone_dark_content_desc">"गडद रंगाची त्वचा"</string>
+    <string msgid="1052239040923092881" name="emoji_skin_tone_light_content_desc">"उजळ रंगाची त्वचा"</string>
+    <string msgid="8880212664699697283" name="emoji_skin_tone_medium_content_desc">"मध्यम रंगाची त्वचा"</string>
+    <string msgid="5500271767005002413" name="emoji_skin_tone_medium_dark_content_desc">"मध्यम गडद रंगाची त्वचा"</string>
+    <string msgid="3968357909948619626" name="emoji_skin_tone_medium_light_content_desc">"मध्यम उजळ रंगाची त्वचा"</string>
+    <string msgid="1759906883307507376" name="emoji_skin_tone_shadow_content_desc">"शॅडो"</string>
+    <string msgid="6381933050671041489" name="emoji_variant_content_desc_template">"%1$s आणि %2$s"</string>
+    <string msgid="2898934883418401376" name="emoji_variant_selector_content_desc">"इमोजी व्हेरीयंट सिलेक्टर"</string>
+</resources>

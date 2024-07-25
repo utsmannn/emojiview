@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="5055290162204827523" name="emoji_bidirectional_switcher_clicked_desc">"የስሜት ገላጭ ምስል አቅጣጫ ተቀይሯል"</string>
+    <string msgid="5084600168354220605" name="emoji_bidirectional_switcher_content_desc">"የስሜት ገላጭ ምስል ባለሁለት አቅጣጫ መቀያየሪያ"</string>
+    <string msgid="4381135114947330911" name="emoji_category_activity">"እንቅስቃሴዎች እና ክስተቶች"</string>
+    <string msgid="4640771324837307541" name="emoji_category_animals_nature">"እንስሳት እና ተፈጥሮ"</string>
+    <string msgid="1570830970240985537" name="emoji_category_emotions">"ሳቂታዎች እና ስሜቶች"</string>
+    <string msgid="6185639503532784871" name="emoji_category_flags">"ባንዲራዎች"</string>
+    <string msgid="1189971856721244395" name="emoji_category_food_drink">"ምግብ እና መጠጥ"</string>
+    <string msgid="6106115586332708067" name="emoji_category_objects">"ነገሮች"</string>
+    <string msgid="7968173366822927025" name="emoji_category_people">"ሰዎች"</string>
+    <string msgid="7142376595414250279" name="emoji_category_recent">"በቅርብ ጊዜ ጥቅም ላይ የዋለ"</string>
+    <string msgid="5626171724310261787" name="emoji_category_symbols">"ምልክቶች"</string>
+    <string msgid="8105712773237012672" name="emoji_category_travel_places">"ጉዞ እና ቦታዎች"</string>
+    <string msgid="288822832574892625" name="emoji_empty_non_recent_category">"ምንም ስሜት ገላጭ ምስሎች አይገኙም"</string>
+    <string msgid="7863877827879290200" name="emoji_empty_recent_category">"ምንም ስሜት ገላጭ ምስሎችን እስካሁን አልተጠቀሙም"</string>
+    <string msgid="943874297162865134" name="emoji_skin_tone_dark_content_desc">"ጠቆር ያለ የቆዳ ቀለም"</string>
+    <string msgid="1052239040923092881" name="emoji_skin_tone_light_content_desc">"ነጣ ያለ የቆዳ ቀለም"</string>
+    <string msgid="8880212664699697283" name="emoji_skin_tone_medium_content_desc">"መካከለኛ የቆዳ ቀለም"</string>
+    <string msgid="5500271767005002413" name="emoji_skin_tone_medium_dark_content_desc">"መካከለኛ ጠቆር ያለ የቆዳ ቀለም"</string>
+    <string msgid="3968357909948619626" name="emoji_skin_tone_medium_light_content_desc">"መካከለኛ ነጣ ያለ የቆዳ ቀለም"</string>
+    <string msgid="1759906883307507376" name="emoji_skin_tone_shadow_content_desc">"ጥላ"</string>
+    <string msgid="6381933050671041489" name="emoji_variant_content_desc_template">"%1$s እና %2$s"</string>
+    <string msgid="2898934883418401376" name="emoji_variant_selector_content_desc">"የስሜት ገላጭ ምስል ተለዋዋጭ መራጭ"</string>
+</resources>

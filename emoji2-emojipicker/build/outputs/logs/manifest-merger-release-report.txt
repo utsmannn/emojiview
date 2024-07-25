@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/muhammadutsman/AndroidStudio/emoji2picker/emoji2-emojipicker/src/main/AndroidManifest.xml:17:1-19:12
+INJECTED from /Users/muhammadutsman/AndroidStudio/emoji2picker/emoji2-emojipicker/src/main/AndroidManifest.xml:17:1-19:12
+	package
+		INJECTED from /Users/muhammadutsman/AndroidStudio/emoji2picker/emoji2-emojipicker/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/muhammadutsman/AndroidStudio/emoji2picker/emoji2-emojipicker/src/main/AndroidManifest.xml:17:11-69
+uses-sdk
+INJECTED from /Users/muhammadutsman/AndroidStudio/emoji2picker/emoji2-emojipicker/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/muhammadutsman/AndroidStudio/emoji2picker/emoji2-emojipicker/src/main/AndroidManifest.xml
+INJECTED from /Users/muhammadutsman/AndroidStudio/emoji2picker/emoji2-emojipicker/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/muhammadutsman/AndroidStudio/emoji2picker/emoji2-emojipicker/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/muhammadutsman/AndroidStudio/emoji2picker/emoji2-emojipicker/src/main/AndroidManifest.xml

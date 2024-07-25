@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/raw/emoji_category_emotions.csv",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-main-21:/raw/emoji_category_emotions.csv"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/raw/emoji_category_food_drink.csv",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-main-21:/raw/emoji_category_food_drink.csv"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/raw/emoji_category_activity.csv",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-main-21:/raw/emoji_category_activity.csv"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/raw/emoji_category_flags.csv",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-main-21:/raw/emoji_category_flags.csv"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/raw/emoji_category_animals_nature.csv",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-main-21:/raw/emoji_category_animals_nature.csv"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/raw/emoji_category_people.csv",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-main-21:/raw/emoji_category_people.csv"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/raw/emoji_category_objects.csv",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-main-21:/raw/emoji_category_objects.csv"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/raw/emoji_category_people_gender_inclusive.csv",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-main-21:/raw/emoji_category_people_gender_inclusive.csv"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/raw/emoji_category_travel_places.csv",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-main-21:/raw/emoji_category_travel_places.csv"
+    },
+    {
+        "merged": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/raw/emoji_category_symbols.csv",
+        "source": "androidx.emoji2.emojipicker.emoji2-emojipicker-main-21:/raw/emoji_category_symbols.csv"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "androidx.emoji2.emojipicker.emoji2-emojipicker-release-20:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/muhammadutsman/.gradle/caches/transforms-3/cd2b6f798a8e977934ea4c846aaf2a89/transformed/appcompat-1.6.1/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "androidx.emoji2.emojipicker.emoji2-emojipicker-mergeReleaseResources-18:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/muhammadutsman/.gradle/caches/transforms-3/cd2b6f798a8e977934ea4c846aaf2a89/transformed/appcompat-1.6.1/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
