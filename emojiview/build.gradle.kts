@@ -62,12 +62,14 @@ java {
 
 publishing {
     publications {
-        withType<MavenPublication> {
+        register<MavenPublication>("release") {
             groupId = "com.github.utsmannn"
             artifactId = "emojiview"
             version = "1.2.0"
 
-            from(components.findByName("release"))
+            afterEvaluate {
+                from(components["release"])
+            }
         }
     }
 }
