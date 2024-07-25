@@ -25,6 +25,7 @@
 plugins {
     alias(libs.plugins.androidLibrary)
     alias(libs.plugins.jetbrainsKotlinAndroid)
+    id 'maven-publish'
 }
 
 dependencies {
@@ -59,11 +60,18 @@ android {
     }
 }
 
-//androidx {
-//    name = "Emoji2 Emoji Picker"
-//    inceptionYear = "2022"
-//    description = "This library provides the latest emoji support and emoji picker UI to input " +
-//            "emoji in current and older devices"
-//    metalavaK2UastEnabled = true
-//    legacyDisableKotlinStrictApiMode = true
-//}
+publishing {
+    publications {
+        maven(MavenPublication) {
+            groupId = 'com.github.utsmannn'
+            artifactId = 'emoji2-emojipicker-adopted'
+            version = "1.0"
+            pom {
+                description = 'First release'
+            }
+        }
+    }
+    repositories {
+        mavenLocal()
+    }
+}
